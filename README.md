@@ -18,6 +18,7 @@ This masterclass is divided into 8 high-impact segments:
 
 🛠️ Installation & Setup
 To run the code in this repository, ensure you have Python 3.10+ installed and install Pydantic V2:
+
   pip install pydantic
 
 📓 How to Use the Notebook:
